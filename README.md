@@ -52,3 +52,9 @@ logpdf
 logpdf!
 logmllh!
 ```
+
+## License
+The code is licensed under [MIT License](LICENSE).
+
+## Citation
+Please cite this work if you use it using the following [CITATION](CITATION).
