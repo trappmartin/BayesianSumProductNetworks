@@ -16,7 +16,7 @@ pkg> add https://github.com/trappmartin/BayesianSumProductNetworks.git
 ```
 
 ### Dataset and Predictions
-All dataset and predictions can be found under: [download](https://github.com/trappmartin/BayesianSumProductNetworks/releases/download/v1.0.0/data_predictions_scripts.tar)
+All dataset and predictions can be found under: [download](https://github.com/trappmartin/BayesianSumProductNetworks/releases/download/v1.0/data_predictions_scripts.tar)
 
 ### Running Experiments
 To run the experiments, start the respective shell script located in the `hpc` folder. Those scripts are written such that they can be used as master scripts for slurm jobs.
