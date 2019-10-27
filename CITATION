@@ -1,7 +1,6 @@
-@misc{trapp2019bayesian,
+@inproceedings{trapp2019bayesian,
     title={Bayesian Learning of Sum-Product Networks},
     author={Martin Trapp and Robert Peharz and Hong Ge and Franz Pernkopf and Zoubin Ghahramani},
     year={2019},
-    eprint={1905.10884},
-    archivePrefix={arXiv}
-}
+    booktitle={Proceedings of Advances in Neural Information Processing Systems {NeurIPS}}
+    }
